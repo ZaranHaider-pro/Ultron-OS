@@ -2,7 +2,7 @@
 
 ULTRON OS is a C++20 operating-system simulator with graphical and command-line interfaces. It provides an interactive way to explore operating-system concepts such as process management, CPU scheduling, memory allocation, resource management, authentication, and file-system operations.
 
-> **Project type:** University group project  
+> **Project type:** University project  
 > **Platform:** Windows  
 > **Language:** C++20
 
