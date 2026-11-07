@@ -125,6 +125,5 @@ The application creates or uses `data/` and `logs/` directories while running. T
 
 Developed as a university group project for the Software Engineering degree program at FAST-NUCES.
 
-**Contributors:** Add the names of the project team members here.  
-**My contribution:** Add the components and tasks you personally implemented here.
+**Done By:** Muhammad Zaran Haider
 
